@@ -21,6 +21,6 @@ In this program, the 32 bit Windows console executable version is used.
 
 Third, one should run make_sequences.m to extract features and construct dataset
 
-After obtaining the dataset, users should put them in the same folder with this program, and modify the file path in the program. The main program is BHDA.m.
+After obtaining the dataset, users should put them in the same folder with this program, and modify the file path in the program. The classification is down by BHDA.m.
 
-Moreover, it is be noted that the constructed datasets are available in current path.
+
