@@ -23,4 +23,8 @@ Third, one should run make_sequences.m to extract features and construct dataset
 
 After obtaining the dataset, users should put them in the same folder with this program, and modify the file path in the program. 
 
+Finally, it should be noted taht the details of our method can be found in:
+
+https://www.sciencedirect.com/science/article/pii/S0022519316301527
+
 
