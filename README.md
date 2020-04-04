@@ -3,7 +3,7 @@ This program is free; you can redistribute it and/or modify it.
 
 This program is distributed in the hope that it will be useful.
 
-Requirement
+## Requirement
 
 This program is suitable for MATLAB R2013a and above versions.
 
@@ -23,7 +23,7 @@ Third, one should run make_sequences.m to extract features and construct dataset
 
 After obtaining the dataset, users should put them in the same folder with this program, and modify the file path in the program. 
 
-Finally, it should be noted taht the details of our method can be found in:
+### Finally, it should be noted taht the details of our method can be found in:
 
 https://www.sciencedirect.com/science/article/pii/S0022519316301527
 
